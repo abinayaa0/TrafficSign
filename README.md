@@ -1,4 +1,4 @@
-# TrafficSign
+# TrafficSignDetection
 
 Links of repositories for pre trained models:
 EfficientDet-D1: https://github.com/ngonhi/TrafficSignDetection.git
